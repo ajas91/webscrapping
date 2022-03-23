@@ -77,6 +77,12 @@ if __name__ == "__main__":
     s = pd.Series(comments)
     s = s.str.strip()
     path = os.path.abspath(os.path.curdir)
-    s.to_csv(os.path.join(path,'comments.csv'))
+
+    i = 1.0
+    while f'comments_v{i}.csv' in os.listdir(path):
+        i = round(i+0.1,1)
+    
+    file_name = f'comments_v{i}.csv'
+    s.to_csv(os.path.join(path,file_name))
     print(comments)
     driver.close()
