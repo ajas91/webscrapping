@@ -58,8 +58,8 @@ if __name__ == "__main__":
     driver = webdriver.Chrome(executable_path=driverPath)
     comments = []
     for i in range(7):
-        # site = f'https://www.talabat.com/oman/restaurants/1415/al-mawalih-north?page={i+1}'
-        site = f'https://www.talabat.com/oman/restaurants/1397/qurm?page={i+1}'
+        site = f'https://www.talabat.com/oman/restaurants/1415/al-mawalih-north?page={i+1}'
+        # site = f'https://www.talabat.com/oman/restaurants/1397/qurm?page={i+1}'
         driver.get(site)
         time.sleep(1)
         restButtons = driver.find_elements(by=By.CLASS_NAME, value ='restuarant-item')
