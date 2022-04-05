@@ -1,0 +1,709 @@
+,Text_y,Label
+0,"['nice', 'selection', 'breakfast']",1
+1,"['abit', 'pricey']",-1
+2,['absolute'],1
+3,"['hour', 'recive', 'order']",-1
+4,['alright'],1
+5,"['always', 'delicious', 'fresh', 'hot', 'tasty', 'thank']",1
+6,"['always', 'great', 'food']",1
+7,"['always', 'order', 'turkish', 'palace', 'food', 'delicious']",1
+8,"['always', 'good', 'thanks']",1
+9,"['always', 'best', 'team']",1
+10,"['always', 'best', 'thank', 'everything']",1
+11,"['always', 'good']",1
+12,"['always', 'tasty', 'lactose', 'free']",1
+13,['amaaaaazing'],1
+14,['amazing'],1
+15,"['amazing', 'dekicious']",1
+16,"['amazing', 'food']",1
+17,"['amazing', 'food', 'always']",1
+18,"['amazing', 'food']",1
+19,"['amazing', 'place', 'delicious']",1
+20,"['amazing', 'taste', 'like', 'eating', 'lebanese', 'restaurant', 'beirut']",1
+21,"['amazing', 'thats']",1
+22,['amazing'],1
+23,"['among', 'orders', 'first', 'time', 'order', 'restaurant', 'without', 'regrets', 'really', 'good', 'affordable', 'price', 'time']",1
+24,['anazing'],1
+25,"['appereciate', 'great']",1
+26,"['authentic', 'good', 'delicious']",1
+27,"['avocado', 'juice', 'ordered', 'bitter', 'taste', 'checked', 'sending']",-1
+28,['awesome'],1
+29,['bad'],-1
+30,"['bad', 'resturant']",-1
+31,"['bad', 'servies']",-1
+32,"['bad', 'spoiled', 'food']",-1
+35,"['bery', 'delicious']",1
+36,"['besides', 'food', 'delicious', 'sushi', 'box', 'extra', 'speciality', 'truly', 'take', 'care', 'customer', 'thank', 'keep', 'greatness', 'please']",1
+37,['best'],1
+38,['best'],1
+39,"['best', 'coffee']",1
+40,"['best', 'coffee', 'ever']",1
+41,"['best', 'cookies', 'oman']",1
+42,"['best', 'donuts', 'far', 'fluffy']",1
+43,"['best', 'everrrtr']",1
+44,"['best', 'foood']",1
+45,"['best', 'iced', 'mocha']",1
+46,"['best', 'indain', 'resturant', 'oman', 'mashallah']",1
+47,"['best', 'pizza', 'far', 'muscat']",1
+48,"['best', 'popcorn', 'nachos']",1
+49,"['best', 'restau', 'oman']",1
+50,"['best', 'restau', 'oman']",1
+51,"['best', 'restaurant', 'muscat']",1
+52,"['best', 'restaurant', 'muscat']",1
+53,"['best', 'resturant']",1
+54,"['better', 'lots', 'resturants', 'area']",1
+55,"['bill', 'strawberry', 'lemonade', 'regular', 'rials', 'missing']",-1
+56,"['sliders', 'burgers', 'overcooked', 'patty', 'dry', 'first', 'time', 'experiencing', 'disappointed', 'taste']",-1
+57,"['box', 'opened']",-1
+59,"['buffalo', 'chicken', 'burger', 'chewy']",-1
+60,"['buffalo', 'shrimps', 'overcooked', 'bad', 'smell', 'oily', 'also', 'expensive', 'comparing', 'quality', 'received']",-1
+63,"['came', 'plastic', 'bag', 'tin', 'described', 'app']",-1
+64,"['carne', 'asada', 'steak', 'tough', 'cant', 'eat', 'ordered', 'extra', 'guacamole', 'sour', 'cream', 'delivered', 'spicy', 'eat', 'food']",-1
+65,"['ceazer', 'salad', 'without', 'sauce', 'crouton']",-1
+66,"['cheap', 'bad']",-1
+67,"['chicken', 'fillet', 'sandwich', 'good', 'one', 'problem', 'side', 'thought', 'lemonade', 'mojito', 'wasted', 'money', 'lemon', 'juice', 'little', 'berry', 'bits']",1
+68,"['chicken', 'manchow', 'soup', 'smelt', 'like', 'fish', 'manchow', 'soup', 'maybe', 'utensils', 'clean', 'dispose', 'entire', 'portion', 'soup', 'dissapointing', 'rial', 'soup', 'chicken', 'tikka', 'lababdar', 'must', 'great', 'taste']",-1
+69,"['clod', 'stone', 'always', 'great']",1
+71,"['coffe', 'good', 'thanks']",1
+72,"['coffee', 'bad', 'sandwich', 'oily']",-1
+73,['cold'],-1
+74,['confusion'],-1
+75,['cool'],1
+76,['cool'],1
+78,"['crepe', 'hard', 'lotus', 'crepe', 'burnt', 'dont', 'recommend', 'better', 'dip', 'amp', 'dip']",-1
+79,"['crepe', 'hard', 'lotus', 'crepe', 'burnt', 'dont', 'recommend', 'better', 'dip', 'amp', 'dip']",-1
+80,['decent'],1
+81,['delicious'],1
+82,['delicious'],1
+83,['delicious'],1
+84,['delicious'],1
+85,['delicious'],1
+86,"['delicious', 'burgers']",1
+87,"['delicious', 'cheese', 'fries', 'really', 'respond', 'customers', 'requests', 'thank', 'much']",1
+88,"['delicious', 'chiken', 'pesto', 'sandwish']",1
+89,"['delicious', 'croissants', 'arrived', 'fresh', 'warm']",1
+90,['delicious'],1
+91,"['delicious', 'food']",1
+92,"['delicious', 'food', 'excellent', 'quality']",1
+93,"['deliciouse', 'mixed', 'grills']",1
+95,"['delivered', 'ontime']",1
+96,"['receive', 'ordered']",1
+97,"['didnt', 'get', 'full', 'order']",1
+98,"['didnt', 'get', 'order', 'deiver', 'communicate']",1
+99,"['didnt', 'give', 'back', 'change']",-1
+101,"['diet', 'pepsi', 'missing']",-1
+102,"['disappointing', 'delivered', 'food', 'utensils', 'eat', 'loaded', 'fries', 'without', 'fork', 'size', 'milkshake', 'worth', 'price']",-1
+103,"['disappointing', 'order', 'brought', 'half', 'tea', 'harmlek', 'never', 'arrived']",-1
+104,"['doughnuts', 'old', 'fresh', 'toppings', 'shocked', 'get', 'rd', 'doughnuts', 'fan', 'never', 'experiebced', 'wen', 'purchased', 'directly']",-1
+105,"['drink', 'expired']",-1
+106,"['drinks', 'sauces', 'missing', 'pizza', 'cold']",-1
+107,"['everything', 'tried', 'yum', 'love', 'regular', 'teokbokki', 'better', 'order', 'regular', 'one', 'spicy', 'one', 'like', 'one', 'seen', 'spicy', 'noodles', 'challenge', 'toooo', 'spicy', 'rest', 'everything', 'mindblowing', 'good', 'quantity']",1
+108,"['egg', 'best', 'ever', 'service', 'ffffaaasssttteerrrr', 'dounat']",1
+109,"['every', 'thing', 'good']",1
+110,"['everythinb', 'great']",1
+111,"['everytime', 'perfect', 'bateel']",1
+112,['ew'],-1
+113,['excellent'],1
+114,"['excellent', 'super', 'tasty', 'food']",1
+115,"['excellent', 'absolutely', 'delicious']",1
+116,"['excellent', 'always']",1
+117,"['excellent', 'driver']",1
+118,"['excellent', 'food']",1
+119,"['excellent', 'food', 'service']",1
+120,"['excellent', 'food', 'good', 'restaurant']",1
+121,"['excellent', 'service']",1
+122,"['excellent', 'service']",1
+123,"['excellent', 'taste', 'staff', 'confused', 'witb', 'ur', 'order', 'call', 'ensure', 'u', 'get', 'correct', 'order', 'thumbs']",1
+124,['exellent'],1
+125,['exellent'],1
+126,['expensive'],-1
+127,"['extremely', 'small', 'portion']",-1
+128,"['extrnely', 'poor', 'product', 'extrmelg', 'expebsive', 'pee', 'pic', 'small', 'portion']",-1
+130,['fantastic'],1
+131,['fast'],1
+132,"['fast', 'good']",1
+133,"['fast', 'goood']",1
+134,"['fast', 'great', 'food']",1
+135,"['fast', 'uber']",1
+136,"['fatayer', 'yummy', 'light', 'flavorful', 'definatly', 'order']",1
+137,"['favorite', 'food']",1
+138,"['favourite', 'comfort', 'food']",1
+139,"['favourite', 'pasta']",1
+140,"['fhe', 'king', 'prawns', 'salad', 'looked', 'nothing', 'like', 'pbotos', 'prawns', 'small', 'king', 'size', 'tha', 'lettuce', 'soggy', 'kich', 'sauce', 'ill', 'mot', 'order']",-1
+141,"['first', 'time', 'ordering', 'delicious', 'quality', 'yogurt', 'absolutely', 'phenomenal', 'great', 'flavors', 'excellent', 'choice', 'enjoy', 'experiencing', 'wonderful', 'customer', 'service', 'yogutland', 'team', 'help', 'choose', 'flavors']",1
+142,"['first', 'time', 'ordering', 'delicious', 'quality', 'yogurt', 'absolutely', 'phenomenal', 'great', 'flavors', 'excellent', 'choice', 'enjoy', 'experiencing', 'wonderful', 'customer', 'service', 'yogutland', 'team', 'help', 'choose', 'flavors']",1
+143,"['food', 'came', 'cold', 'fries', 'fresh']",-1
+144,"['food', 'came', 'within', 'mins', 'wasnt', 'warm', 'tasty', 'three', 'ordered']",-1
+145,"['food', 'fresh', 'yummy']",1
+146,"['food', 'bit', 'cold', 'still', 'tastey', 'kimchi', 'didnt', 'meet', 'expectations']",-1
+147,"['food', 'cold', 'driver', 'didnt', 'bag', 'keep', 'food', 'hot']",-1
+151,"['food', 'missing', 'ans', 'drink', 'spilt', 'remaining', 'food']",-1
+152,"['food', 'expected']",-1
+153,"['food', 'quality', 'good', 'compared', 'price']",1
+154,"['food', 'taste', 'bad']",-1
+156,"['food', 'badall', 'family', 'got', 'sick']",-1
+157,"['food', 'average']",-1
+158,"['food', 'burned']",-1
+159,"['food', 'cold']",-1
+160,"['food', 'cold', 'soggy']",-1
+161,"['food', 'delivered', 'smell', 'cigarretes']",-1
+162,"['food', 'good']",1
+164,"['food', 'great', 'terms', 'quality', 'quantity']",1
+165,"['food', 'hot', 'soggy', 'didnt', 'give', 'ranch', 'sauce', 'wings', 'generally', 'taste', 'expectations', 'rocomama', 'travel', 'well']",-1
+166,"['food', 'messy', 'cold', 'hot', 'pepsi']",-1
+168,"['food', 'pretty', 'good']",1
+170,"['food', 'oily']",-1
+171,"['food', 'bland']",-1
+172,"['food', 'bland']",-1
+173,"['food', 'without', 'kind', 'sauces']",-1
+174,"['food', 'wasnt', 'fresh', 'like', 'cold', 'reheated']",-1
+176,"['big', 'cookies', 'box', 'didnt', 'get', 'flavor', 'cookies', 'chose', 'perhaps', 'shortage', 'tried', 'call', 'tell', 'replace', 'cookies', 'flavor', 'didnt', 'reply', 'call', 'recommend', 'messaging', 'people', 'whatsapp', 'dont', 'reply', 'phone', 'call']",-1
+177,['fresh'],1
+178,"['fresh', 'delicious']",1
+179,"['geilled', 'items', 'hot', 'enough', 'upon', 'arrival', 'importntly', 'found', 'live', 'cocktoach', 'delivery', 'box', 'disturbing', 'clearly', 'unsanitary']",-1
+180,"['good', 'beef', 'mashroom', 'good']",1
+181,"['good', 'healthy']",1
+182,"['good', 'time']",1
+183,"['good', 'always']",1
+184,"['good', 'better', 'somehow', 'tasteless']",1
+185,"['good', 'food']",1
+186,"['good', 'food', 'pakkiing']",1
+187,"['good', 'food', 'prices', 'raised', 'portions', 'smaller', 'ripoff']",1
+188,"['good', 'grilled']",1
+189,"['good', 'job']",1
+190,"['good', 'kunafa', 'best', 'oman']",1
+191,"['good', 'packing', 'best', 'crepe', 'town']",1
+192,"['good', 'perfect', 'amazing']",1
+193,"['good', 'price', 'great', 'taste']",1
+194,"['good', 'service']",1
+195,"['good', 'services']",1
+196,"['good', 'taste', 'food']",1
+197,"['good', 'taste', 'food']",1
+198,"['good', 'timing', 'dealivery']",1
+199,"['goodkebabs', 'salty']",1
+200,['goods'],1
+201,"['goood', 'brought', 'ordenary', 'plastic', 'bag']",1
+202,['goooood'],1
+203,"['got', 'wrong', 'order']",1
+204,['gr'],1
+205,['gr'],1
+206,['great'],1
+207,"['great', 'amd', 'fast']",1
+208,"['great', 'burgers']",1
+209,"['great', 'food']",1
+210,"['great', 'food', 'feel', 'eating', 'sweet', 'test', 'expect']",1
+211,"['great', 'food', 'always']",1
+212,"['great', 'food', 'usual']",1
+213,"['great', 'food', 'received', 'wrong', 'order']",1
+214,"['great', 'food', 'quality', 'love']",1
+215,"['great', 'natural', 'flavors']",1
+216,"['great', 'natural', 'flavors']",1
+217,"['great', 'pizzas', 'sure', 'last', 'time']",1
+218,"['great', 'product', 'service']",1
+219,"['great', 'product', 'service', 'excellent']",1
+220,"['great', 'service']",1
+221,"['great', 'service', 'product']",1
+222,"['great', 'service', 'always']",1
+223,"['great', 'stuff']",1
+224,"['great', 'value', 'great', 'taste']",1
+225,"['grilled', 'chicken', 'amazing']",1
+226,"['didnt', 'give', 'change']",-1
+227,"['dropped', 'wrong', 'order', 'call', 'tell', 'made', 'mistke']",-1
+228,"['hung', 'order', 'door', 'left', 'could', 'instruct']",-1
+229,"['left', 'food', 'floor', 'leave', 'food', 'isnt', 'well', 'packed', 'left', 'floor', 'didnt', 'even', 'call', 'tell', 'hes', 'outisde', 'left', 'flooor', 'outside', 'next', 'car', 'tire', 'didnt', 'choose', 'contactless', 'delievry', 'fyi', 'dog', 'couldve', 'taken', 'food']",-1
+230,"['left', 'food', 'floor', 'leave', 'food', 'isnt', 'well', 'packed', 'left', 'floor', 'didnt', 'even', 'call', 'tell', 'hes', 'outisde', 'left', 'flooor', 'outside', 'next', 'car', 'tire', 'didnt', 'choose', 'contactless', 'delievry', 'fyi', 'dog', 'couldve', 'taken', 'food']",-1
+231,"['took', 'money']",-1
+232,"['fast', 'kind']",1
+233,"['would', 'food', 'door', 'argue', 'get', 'hime', 'bring', 'food', 'first', 'floor']",-1
+234,"['hes', 'calling', 'even', 'though', 'told', 'im', 'coming', 'minute', 'send', 'need', 'annoy']",-1
+237,"['hilal', 'belkin', 'amazing']",1
+238,"['hot', 'dog', 'croissant', 'spicy']",-1
+239,"['hot', 'delicious', 'fast']",1
+240,"['houmous', 'testy']",-1
+241,"['always', 'order', 'chicken', 'bbq', 'lauriat', 'always', 'ice', 'tea', 'day', 'didnt', 'give', 'ice', 'tea', 'dissappointed']",-1
+242,"['satisfied', 'meals', 'clean', 'delicious', 'team', 'wonderful', 'bad', 'im', 'going', 'leave', 'tonight', 'normally', 'send', 'free', 'meal', 'last', 'day', 'well', 'done', 'team', 'algeria']",1
+243,"['ask', 'thing', 'els']",-1
+244,"['asked', 'paid', 'vanilla', 'pump', 'got', 'iced', 'latte', 'vanilla', 'flavor', 'paid']",-1
+245,"['asked', 'change', 'didnt']",-1
+246,"['order', 'coloured', 'burger', 'bun', 'ordered', 'normal', 'bun', 'got', 'one', 'colours']",-1
+247,"['receive', 'invoice']",-1
+248,"['receive', 'correct', 'order', 'allergic', 'garlic', 'order', 'garlic']",-1
+250,"['didnt', 'get', 'tge', 'right', 'size']",-1
+251,"['didnt', 'choice', 'choose', 'type', 'cookie', 'wrote', 'special', 'request', 'totally', 'ignored']",-1
+252,"['didnt', 'receive', 'drink', 'meal']",-1
+253,"['didnt', 'receive', 'iteams']",-1
+254,"['didnt', 'received', 'ordered']",-1
+255,"['didnt', 'recieve', 'order', 'rider', 'lied', 'call', 'center', 'agent', 'rider', 'never', 'contact', 'reason', 'mot', 'delivering', 'order', 'location', 'far', 'wated', 'take', 'another', 'orders', 'make', 'money', 'kind', 'foolish', 'untrained', 'rider', 'use', 'talabat', 'never', 'recomend', 'talabat', 'call', 'center', 'didnt', 'solution', 'problem']",-1
+256,"['didnt', 'recieved', 'order']",-1
+257,"['felt', 'got', 'bad', 'quality', 'amount', 'paid', 'really', 'small']",-1
+258,"['felt', 'got', 'great', 'quality', 'amount', 'paid']",1
+259,"['felt', 'got', 'great', 'quality', 'amount', 'paid', 'food', 'delicious', 'surpassed', 'expectations', 'impressed', 'fast', 'order', 'arrived', 'food', 'packaging', 'perfect']",1
+260,"['felt', 'got', 'great', 'quality', 'amount', 'paid', 'food', 'delicious', 'surpassed', 'expectations', 'food', 'packaging', 'perfect', 'impressed', 'fast', 'order', 'arrived']",1
+261,"['ordered', 'turkey', 'breast', 'meal', 'received', 'tuna', 'sandwich', 'meal']",-1
+262,"['havent', 'recieved', 'order']",-1
+263,"['like', 'talabat']",1
+264,['love'],1
+265,"['love', 'mushroom', 'rissotto']",1
+266,"['love', 'service', 'food']",1
+267,"['loved', 'order', 'packaged', 'fresh', 'good', 'wow', 'mediterranean', 'salad', 'tastier']",1
+268,"['loved', 'order', 'packaged', 'order', 'arrived', 'fast', 'felt', 'got', 'great', 'quality', 'amount', 'paid', 'food', 'delicious', 'surpassed', 'expectations']",1
+269,"['missed', 'bread', 'butter', 'usually', 'comes', 'salad']",-1
+270,"['order', 'lamb', 'give', 'chicken']",-1
+271,"['order', 'tum', 'yum', 'seafood', 'one', 'shrimp', 'one', 'pice', 'fish']",-1
+272,"['orderd', 'raisin', 'roll', 'almond', 'croissant', 'unfortnately', 'itemes', 'put', 'together', 'small', 'paper', 'bag', 'squashed', 'please', 'make', 'sure', 'package', 'pastry', 'seperate', 'bag']",-1
+273,"['orderd', 'brownie', 'cookies', 'gave', 'cup', 'cookies', 'dont', 'eat', 'cause', 'dont', 'like']",-1
+274,"['ordered', 'box', 'fries', 'one', 'riyal', 'count', 'many', 'fries', 'box', 'looking', 'super', 'socked', 'oil', 'little', 'one', 'riyal', 'overpriced']",-1
+275,"['ordered', 'almond', 'croissant', 'got', 'plain', 'one']",-1
+276,"['ordered', 'iced', 'drink', 'strived', 'without', 'straw']",-1
+277,"['ordered', 'hot', 'spanish', 'latte', 'recive', 'cold', 'one']",-1
+278,"['ordered', 'grape', 'bubble', 'tea', 'cream', 'received', 'without', 'cream']",-1
+279,"['ordered', 'pistachio', 'milkshake', 'didnt', 'like', 'couldnt', 'taste', 'pistachio', 'milkshake', 'something', 'foamy', 'cold', 'simply', 'foam', 'order']",-1
+280,"['ordered', 'pistachio', 'waffle', 'strawberries', 'received', 'nutella', 'waffle', 'without', 'strawberries', 'plus', 'coffee', 'already', 'cold']",-1
+281,"['ordered', 'pizza', 'disappointing']",-1
+282,"['ordered', 'froyo', 'yogurtland', 'talabat', 'taste', 'good', 'please', 'try', 'varied', 'varieties', 'falvours', 'personal', 'choice', 'plain', 'tart', 'selling', 'product']",1
+283,"['ordered', 'salted', 'caramel', 'flavour', 'amp', 'tooo', 'good', 'liked', 'taste', 'flavour', 'vl', 'recommend', 'flavour', 'rating', 'njoyed', 'lot']",1
+284,"['ordered', 'salted', 'caramel', 'flavour', 'amp', 'tooo', 'good', 'liked', 'taste', 'flavour', 'vl', 'recommend', 'flavour', 'rating', 'njoyed', 'lot']",1
+287,"['ordered', 'super', 'size', 'burrito', 'small', 'definitely', 'big', 'knew', 'would', 'ordered', 'minor', 'thing', 'napkins', 'packaging', 'would', 'expect', 'least', 'one']",-1
+288,"['ordered', 'frozen', 'yoghurt', 'kids', 'said', 'deliveted', 'within', 'mins', 'nearly', 'hour', 'got', 'knew', 'would', 'take', 'long', 'wouldnt', 'bought', 'disappointed']",-1
+289,"['ordered', 'tiramisu', 'came', 'frozen', 'note', 'saying', 'eat', 'mins', 'disappointing', 'say', 'least']",-1
+290,"['paid', 'vanilla', 'latte', 'extra', 'shot', 'caramel', 'refund', 'got', 'large', 'latte']",-1
+291,"['paid', 'extra', 'portions', 'receive']",-1
+292,"['paid', 'less', 'wrong', 'order']",-1
+293,"['payed', 'almost', 'rials', 'got', 'packaging', 'resturants', 'charge', 'baisa', 'breakfast', 'shameful']",-1
+294,"['recieved', 'wrog', 'order']",-1
+295,"['recive', 'covered', 'bag', 'extra', 'cousion', 'regrad', 'covid', 'expected', 'top', 'cup', 'coverd', 'plastic', 'wrap', 'thank']",-1
+296,"['recived', 'wrong', 'order']",-1
+297,"['required', 'add', 'cheese', 'add']",-1
+298,"['rqust', 'cut', 'said', 'job']",-1
+299,"['said', 'spaicy', 'souse', 'ask', 'peper']",-1
+300,"['suggest', 'mandoos', 'reduce', 'quantity', 'meal', 'price', 'reduction', 'meal', 'two', 'person']",-1
+301,"['think', 'charge', 'twice', 'order', 'could', 'please', 'correct']",-1
+302,"['think', 'charge', 'twice', 'order', 'could', 'please', 'correct']",-1
+303,"['thought', 'dynamite', 'container', 'pic', 'going', 'got', 'really', 'small', 'container', 'hungry', 'guys', 'tricked']",-1
+304,"['ticked', 'cutleries', 'didnot', 'include', 'anything']",-1
+305,"['used', 'order', 'city', 'dounts', 'however', 'time', 'experience', 'good', 'thought']",-1
+306,"['impressed', 'fast', 'order', 'arrived']",1
+307,"['impressed', 'fast', 'order', 'arrived', 'felt', 'got', 'great', 'quality', 'amount', 'paid']",1
+308,"['impressed', 'fast', 'order', 'arrived', 'food', 'packaging', 'perfect']",1
+309,"['disappointed', 'remember', 'ordered', 'food', 'recieve', 'exactly', 'ordered', 'iced', 'latte', 'ice', 'totally', 'melted', 'teast', 'like', 'drinking', 'water']",-1
+310,"['surprised', 'amount', 'food', 'left', 'hungry', 'used', 'order', 'amount', 'food', 'decreased']",-1
+311,"['call', 'make', 'complaint', 'chicken', 'katsu', 'ordered', 'definitely', 'reheated', 'cooked', 'previously', 'freezer', 'horrendous', 'experience']",-1
+312,"['writ', 'spical', 'request', 'twis', 'egnor']",-1
+313,"['ice', 'cream', 'almost', 'fully', 'melted', 'delivered']",-1
+314,"['ice', 'cream', 'melted', 'package', 'open']",-1
+315,"['could', 'share', 'picture', 'would', 'oz', 'coup', 'wasnt', 'even', 'half', 'full', 'thats', 'despicable', 'behaviour', 'damn', 'ashamed', 'conduct', 'post', 'pictures', 'facebook', 'instagram', 'city', 'centre']",-1
+316,"['could', 'share', 'picture', 'would', 'oz', 'coup', 'wasnt', 'even', 'half', 'full', 'thats', 'despicable', 'behaviour', 'damn', 'ashamed', 'conduct', 'post', 'pictures', 'facebook', 'instagram', 'city', 'centre']",-1
+317,"['picture', 'meal', 'big', 'give', 'diffrent', 'size']",-1
+318,"['inconvenience', 'caused', 'due', 'missing', 'items']",-1
+319,"['instead', 'enjoying', 'ghe', 'salad', 'busy', 'picking', 'onions', 'mentioned', 'dish', 'description']",-1
+320,"['wired', 'flavor', 'hurted', 'toung']",-1
+321,"['much', 'coconut', 'nuts', 'dry', 'fruit']",-1
+322,"['best', 'allover', 'gcc', 'thank', 'shawarma', 'factory']",1
+323,"['lacked', 'beef', 'quality']",-1
+324,"['exellent', 'survice', 'client', 'polite', 'gentle']",1
+325,"['really', 'good']",1
+326,"['really', 'good']",1
+327,"['best', 'cookie', 'ive', 'ever', 'ate']",1
+328,['bad'],-1
+329,"['wrong', 'item']",-1
+330,"['wasnt', 'mentioned', 'contains', 'onions', 'taste', 'good', 'expected', 'special', 'request', 'ignored']",-1
+331,"['item', 'healthy', 'found', 'inside', 'stone']",-1
+332,"['items', 'missed', 'upset']",-1
+333,"['items', 'chosen', 'list', 'avaiable', 'ordering', 'need', 'update', 'lists']",-1
+334,"['items', 'mentiones', 'available', 'isnt', 'asked', 'wanted', 'totally', 'ignored', 'order', 'called', 'gave', 'attitude', 'instead', 'apologizing', 'waste', 'money']",-1
+335,"['star', 'turkish', 'sweet', 'compared', 'turkish', 'baklava', 'give', 'ok', 'wow', 'like', 'real', 'turkish', 'sweet']",1
+336,['goooood'],1
+337,"['korean', 'food']",-1
+338,"['even', 'half', 'portion']",-1
+339,"['really', 'small']",-1
+340,"['said', 'buy', 'get', 'one', 'received', 'item']",-1
+341,['woooowwww'],1
+342,"['kebab', 'delicious']",1
+343,"['kebab', 'highly', 'recommended']",1
+344,"['kebba', 'good', 'mix', 'grill', 'normal', 'small', 'portion']",1
+345,"['keep', 'ip', 'good', 'work']",1
+346,['keep'],1
+347,"['keep', 'good', 'workmay', 'god', 'bless']",1
+349,"['labeling', 'burgers', 'would', 'good', 'know', 'whaich', 'one']",-1
+350,"['le', 'petit', 'paris', 'good', 'fresh', 'used']",-1
+351,"['literally', 'best', 'buffalo', 'wings', 'ive', 'ever', 'tried']",1
+352,['love'],1
+353,['love'],1
+354,"['love', 'burritos']",1
+355,"['love', 'restaurant']",1
+356,"['love', 'u', 'guys']",1
+357,['loved'],1
+358,"['loved', 'want', 'pizza', 'guys', 'know', 'pizza']",1
+359,['lovely'],1
+360,"['lovly', 'food', 'price', 'wise', 'lil', 'expensive']",-1
+361,"['make', 'sure', 'recive', 'fresh', 'burgers']",-1
+362,"['many', 'thanks', 'reliable', 'every', 'time', 'hot', 'fresh', 'delicious']",1
+363,"['may', 'allah', 'accept', 'charityaameen']",1
+364,"['may', 'god', 'bless', 'good', 'work']",1
+365,"['meat', 'extremely', 'dry']",-1
+366,"['milk', 'wromg']",-1
+367,"['mismatch', 'pictures', 'reality', 'expected', 'taste']",-1
+368,"['missing', 'icecreams']",-1
+369,"['missing', 'drink']",-1
+370,"['missing', 'fries', 'meal']",-1
+371,"['missing', 'items']",-1
+372,"['mix', 'grill', 'delicious']",1
+373,['h'],-1
+375,"['mushroom', 'burger', 'chicken', 'strips', 'best']",1
+376,['mwahhh'],1
+377,"['coffee', 'missing']",-1
+378,"['fav', 'pizza']",1
+379,"['fav', 'shawarma']",1
+380,"['food', 'cold']",-1
+381,"['order', 'didnt', 'arrive', 'within', 'time', 'expected']",-1
+382,"['order', 'missing']",-1
+383,"['order', 'complete', 'im', 'thankful', 'talabat', 'accommodating', 'refund']",1
+384,"['order', 'missing']",-1
+385,"['order', 'prepared', 'perfectly', 'happy', 'thank']",1
+386,"['recent', 'orders', 'food', 'thai', 'spicy', 'anymore', 'dissappointing']",-1
+387,"['requests', 'order', 'totally', 'dismissed']",-1
+388,"['need', 'development']",-1
+389,"['need', 'confirm', 'order', 'n', 'send', 'corectle']",-1
+390,"['needs', 'better', 'packaging']",-1
+391,['nice'],1
+392,"['nice', 'burgar']",1
+393,"['nice', 'coffee']",1
+394,"['nice', 'driver']",1
+395,"['nice', 'food']",1
+396,"['nice', 'food']",1
+397,"['nice', 'packaging', 'prompt', 'dilevery']",1
+398,"['nice', 'pattys', 'buns', 'sauce', 'toing', 'put', 'olives', 'better', 'tasty', 'juicy', 'next', 'time', 'olives', 'thanks']",1
+399,"['nice', 'traditional', 'loaf', 'thanks']",1
+402,"['cheese', 'little', 'bit', 'small']",-1
+405,"['fork', 'spoon', 'eat', 'waffles']",-1
+406,"['fork', 'spoon', 'eat', 'waffles']",-1
+407,"['fork', 'supposed', 'eat']",-1
+408,"['forks', 'knife', 'supposed', 'eat']",-1
+409,"['forks', 'knife', 'supposed', 'eat']",-1
+410,['recommend'],-1
+411,"['spoon', 'tissue', 'supposed', 'delivered', 'within', 'mins', 'recieved', 'one', 'hour']",-1
+412,"['spoons', 'provided', 'dont', 'know']",-1
+413,"['spoons', 'orders', 'toppings', 'mini']",-1
+414,"['spoons', 'orders', 'toppings', 'mini']",-1
+415,"['straws', 'came', 'milkshakes']",-1
+418,"['acceptable', 'sandwiches', 'dry', 'ignored', 'special', 'request', 'ordering']",-1
+419,"['order', 'delivered']",-1
+420,"['order', 'delivered']",-1
+421,"['par', 'hyderabadi', 'biryanis', 'available', 'muscat']",-1
+422,"['bad', 'croissant', 'good']",1
+423,['delicious'],-1
+424,['fresh'],-1
+425,['fresh'],-1
+426,['fresh'],-1
+427,"['good', 'came', 'outside', 'u', 'wasnt', 'mins']",-1
+428,"['good', 'value', 'money']",-1
+429,"['good', 'value', 'money']",-1
+430,"['happy', 'timing', 'procress']",-1
+431,['orders'],-1
+432,['orders'],-1
+436,"['time', 'amp', 'yummy', 'food']",1
+437,"['time', 'amp', 'yummy', 'food']",1
+438,"['one', 'favorite', 'pasta', 'dishes', 'town', 'simple', 'tastes', 'really', 'delicious', 'thank']",1
+439,"['one', 'best', 'cinnamon', 'rolls', 'rolls', 'getting', 'smaller', 'smaller', 'portion']",-1
+440,"['one', 'best', 'lebanese', 'food', 'town', 'tasteful', 'homemade', 'mezza', 'quality', 'fresh', 'ingredients', 'good', 'packaging']",1
+441,"['one', 'worst', 'order', 'ever', 'made', 'ordered', 'kunafa', 'amp', 'one', 'waffle', 'delivered', 'mistake', 'waffle', 'amp', 'paid', 'fully', 'called', 'said', 'deliver', 'rest', 'never', 'got', 'amp', 'called', 'haramlek', 'tough', 'amp', 'rude']",-1
+442,"['one', 'thr', 'box', 'damaged']",-1
+443,"['iced', 'match', 'tea', 'powder', 'needs', 'mix', 'well']",-1
+444,"['order', 'received']",-1
+445,"['order', 'shown', 'boxes', 'tell', 'difference', 'savory', 'crepes']",-1
+446,"['order', 'shown', 'boxes', 'tell', 'difference', 'savory', 'crepes']",-1
+447,"['order', 'supposed', 'reach', 'within', 'minutes', 'took', 'mins', 'delivered', 'delay', 'accepted', 'supposed', 'leave', 'home', 'time']",-1
+448,"['order', 'took', 'way', 'long', 'ordered', 'soup']",-1
+449,"['order', 'delivered']",-1
+450,"['order', 'wrong']",-1
+451,"['ordered', 'mixed', 'fried', 'seafood', 'cost', 'rials', 'put', 'two', 'prawns', 'pieces', 'sequid']",-1
+452,"['ordered', 'somthing', 'received', 'order', 'made']",-1
+453,"['ordered', 'bulgogi', 'cup', 'barely', 'bulgogi', 'rice', 'sprinkle', 'bulgogi']",-1
+454,"['overproced', 'small', 'basic', 'sandwich']",-1
+455,"['packaging', 'good', 'although', 'food', 'taste', 'really', 'bad', 'hot', 'fresh', 'surprised', 'food', 'quality', 'disappointed', 'ans', 'takes', 'long', 'time', 'deliver', 'food']",-1
+456,"['pepsi', 'delivered']",-1
+457,['perfect'],1
+458,"['perfect', 'best', 'pizza', 'oman']",1
+459,['perfect'],1
+460,"['perfect', 'always']",1
+461,['perfect'],1
+462,"['pizza', 'wasnt', 'delivered', 'pepperoni', 'rolls']",-1
+464,"['please', 'sure', 'order', 'bringing', 'coz', 'items', 'get', 'forgotten']",-1
+466,"['please', 'make', 'sure', 'include', 'spoon']",-1
+468,"['please', 'next', 'time', 'give', 'us', 'spoons']",-1
+469,"['pls', 'talabat', 'guy', 'return', 'change', 'pay', 'rials', 'come', 'back', 'help', 'want', 'complain']",-1
+470,"['pompt', 'professional']",1
+471,"['popcorn', 'fresh']",-1
+472,"['pour', 'coffee']",-1
+473,['prefect'],1
+474,['quick'],1
+476,"['really', 'delicious', 'flavorful', 'food', 'loved', 'kebab', 'mutabal', 'hummus', 'ouzi']",1
+477,"['really', 'delicious', 'worth', 'every', 'calorie']",1
+478,"['really', 'great', 'new', 'experience', 'everything', 'tried', 'nice', 'worthy', 'try']",1
+479,"['really', 'liked', 'burger', 'ill', 'order', 'sure']",1
+480,"['really', 'respectful', 'person']",1
+481,"['realy', 'im', 'angri', 'much', 'waithing', 'damage', 'things', 'talabat', 'like']",-1
+482,"['requested', 'tamria', 'subar', 'instead', 'white', 'sauce', 'considered', 'request', 'informed', 'request', 'considered']",-1
+483,"['rider', 'behavior', 'nice', 'professional']",-1
+484,"['rider', 'annoying']",-1
+485,"['rider', 'completly', 'unprofessional', 'accurate', 'tracking', 'drive', 'recieve', 'order', 'time', 'handling', 'multiple', 'orders']",-1
+486,"['rider', 'lazy', 'didnt', 'want', 'deliver', 'door', 'instead', 'asked', 'look', 'street', 'might', 'well', 'get', 'car', 'get', 'drive']",-1
+487,"['rider', 'went', 'complete', 'orders', 'wanted', 'bubble', 'tea', 'ice', 'would', 'got', 'rather', 'frappe', 'also', 'bubble', 'tea', 'hot', 'point', 'riders', 'complete', 'one', 'order', 'making', 'orders']",-1
+489,"['said', 'saif', 'saif', 'said', 'working', 'ushk', 'super', 'excellent', 'friendly', 'helpful', 'always', 'order', 'form', 'ushk']",1
+490,"['salad', 'little', 'soggy', 'sandwishes', 'checken', 'delicious']",1
+491,['satisfied'],1
+492,"['satisfied', 'happy', 'customer']",1
+493,"['sent', 'order', 'wrong', 'home', 'even', 'though', 'right', 'front', 'house', 'aked', 'come', 'gives', 'order', 'neighbor', 'opposite', 'house']",-1
+494,"['shawerma', 'much', 'salty', 'much', 'garlic', 'sauce', 'requested', 'food', 'quality', 'definitely', 'improved']",-1
+495,"['shishbarak', 'delicious', 'mezza', 'packaging', 'food', 'beautiful', 'appetizing', 'thank', 'enab']",1
+496,"['check', 'special', 'requests']",-1
+497,"['significant', 'improvement']",1
+498,"['simply', 'best', 'donuts']",1
+499,"['since', 'months', 'food', 'isnt', 'delicious', 'anymore', 'great', 'food', 'really', 'disappointing', 'tasteless', 'minimum', 'sauce', 'really', 'pity', 'chef', 'replaced']",-1
+500,"['since', 'charging', 'omr', 'per', 'pancake', 'please', 'work', 'packaging', 'received', 'pancake', 'open', 'takes', 'sticker', 'ensure', 'food', 'arrives', 'fresh', 'warm', 'wish', 'attach', 'photo', 'app']",-1
+501,"['small', 'burger']",-1
+502,"['small', 'portion', 'grilled', 'potatoes', 'price', 'bz']",-1
+503,"['fast', 'nice']",1
+504,['good'],1
+505,['goood'],1
+506,['nicd'],1
+507,['quick'],1
+508,['sad'],1
+509,"['soft', 'kunafa', 'crispy']",-1
+510,"['kind', 'porridge', 'dough', 'expected', 'lot']",-1
+511,"['sooo', 'tasty']",1
+513,['super'],1
+514,"['super', 'good', 'nice']",1
+515,"['super', 'good', 'nice']",1
+516,"['super', 'good', 'service']",1
+517,"['super', 'tasty']",1
+518,"['super', 'fast', 'melted', 'fudge', 'sauce', 'still', 'hot']",1
+519,['superb'],1
+520,['superb'],1
+521,"['supposed', 'chicken', 'salad', 'pieces', 'salad']",-1
+523,"['talabat', 'amazing']",1
+524,"['talabat', 'amazing']",1
+525,"['talabat', 'best', 'way', 'place', 'order']",1
+526,"['taste', 'really', 'good', 'first', 'time', 'try', 'new', 'flavor']",1
+527,"['taste', 'bland']",-1
+528,['tasty'],1
+529,"['tasty', 'burgers', 'generous', 'portion']",1
+530,"['terribe', 'service', 'food', 'told', 'wait', 'almost', 'mins', 'still', 'havent', 'received']",-1
+531,"['testy', 'food']",1
+535,"['thank', 'enab', 'bringing', 'taste', 'beirut', 'dinner', 'table', 'mezzas', 'grills', 'soo', 'delicious']",1
+536,"['thank', 'ignoring', 'note']",1
+542,"['thay', 'change', 'ice', 'creem']",-1
+543,"['baffalo', 'wings', 'awosome']",1
+544,"['bedt', 'sandwich', 'ever', 'intier', 'life', 'love', 'much']",1
+545,"['beef', 'smell', 'bad']",-1
+546,['best'],1
+547,"['best', 'cappuccino', 'youll', 'ever']",1
+548,"['best', 'stuffed', 'fries']",1
+549,"['best', 'iced', 'tea', 'ever', 'tasted']",1
+550,"['best', 'loaves', 'bread']",1
+551,"['best', 'best', 'ordered', 'dss', 'shakes', 'recommend', 'pistachio', 'cookies', 'n', 'cream', 'blueberry', 'strawberry', 'milkshakesss', 'fam', 'enjoyeddd']",1
+552,"['best', 'pizza', 'place', 'oman']",1
+553,"['best', 'thai', 'resturant', 'always', 'requests', 'always', 'tastes', 'good', 'easily', 'fav', 'noodles']",1
+554,"['best', 'food', 'delicious', 'well', 'done', 'keep']",1
+555,"['bite', 'little', 'hard', 'cold', 'fresh']",-1
+556,"['bread', 'fresh', 'breaks', 'unwrapping', 'wrapping', 'papers', 'sticked', 'bread']",-1
+557,"['bread', 'stale', 'dry', 'hard', 'couldnt', 'even', 'cut', 'bread', 'knife', 'rials', 'small', 'loaf', 'expect', 'better', 'talabat', 'least', 'gave', 'refund', 'bread', 'inedible', 'try', 'last', 'time', 'previously', 'bread', 'fresh', 'bad', 'theyve', 'lost', 'good', 'customer']",-1
+558,"['burger', 'really', 'good', 'however', 'curely', 'fries', 'pieces', 'lot', 'chiken', 'tenders', 'cooked', 'hope', 'add', 'fries']",-1
+559,"['cake', 'really', 'old', 'taste', 'good', 'im', 'really', 'dissappinted']",-1
+560,"['cheesecake', 'small', 'expensive']",-1
+561,"['chicken', 'burger', 'fully', 'cooked', 'write', 'reviews', 'orders', 'one', 'takes', 'consideration']",-1
+562,"['chicken', 'cooked', 'well', 'still', 'row']",-1
+563,"['coffee', 'came', 'cold']",-1
+564,"['coffee', 'really', 'bad', 'sweet', 'tastes', 'like', 'mango', 'milkshake', 'would', 'like', 'another', 'one', 'refund']",-1
+565,"['coffee', 'hot', 'order', 'cold', 'coffee']",-1
+566,"['cookies', 'fresh', 'bad']",-1
+567,"['cookies', 'average', 'recommend']",-1
+568,"['corn', 'used', 'changed', 'doesnt', 'taste', 'good']",-1
+569,"['delivered', 'dounuts', 'bad', 'situation', 'box', 'opened', 'dounuts', 'mess']",-1
+570,"['drink', 'missing', 'order', 'one']",-1
+571,"['fiod', 'tasty', 'ni', 'lamb', 'chops', 'mixed', 'grill']",-1
+572,"['first', 'time', 'enjoyed', 'real', 'fresh', 'ingredientsmade', 'pizza', 'perfext', 'thank']",1
+573,"['food', 'arrived', 'cold', 'crepe', 'leathery', 'texture', 'cold', 'smoothie', 'cold', 'enough']",-1
+574,"['food', 'good', 'like', 'want', 'asked', 'make', 'plain', 'extra', 'stuff']",-1
+575,"['food', 'good', 'however', 'couldve', 'added', 'veg', 'options', 'plus', 'called', 'cheese', 'fries', 'please', 'put', 'good', 'amount', 'cheese']",-1
+576,"['food', 'fresh', 'tastes', 'though', 'reheated', 'ive', 'throw', 'chicken', 'away', 'altogether', 'lamb', 'chops', 'also', 'obviously', 'reheated', 'second', 'time', 'chicken', 'tasted', 'bad', 'place', 'would', 'like', 'refund', 'wont', 'ordering', 'place']",-1
+577,"['food', 'like', 'usual', 'order', 'things', 'fhey', 'gave', 'sauce', 'order']",-1
+578,"['food', 'tasty']",1
+579,"['food', 'tasty']",1
+580,"['food', 'delicious']",-1
+581,"['food', 'packaging', 'perfect']",1
+582,"['food', 'packaging', 'perfect', 'impressed', 'fast', 'order', 'arrived', 'felt', 'got', 'great', 'quality', 'amount', 'paid', 'food', 'delicious', 'surpassed', 'expectations']",1
+585,"['food', 'tasty']",-1
+586,"['food', 'salty']",-1
+587,"['food', 'delcious', 'tasty']",1
+588,"['food', 'dry', 'tough', 'fresh', 'enjoy']",-1
+589,"['food', 'super', 'yummy']",1
+590,"['food', 'tasty']",1
+591,"['food', 'nice']",1
+592,"['food', 'perfect', 'brouni', 'balance', 'long', 'time', 'brouni', 'strongly', 'recommended']",1
+593,"['freekeh', 'imsakhan', 'rolls', 'yummy']",1
+594,"['froasted', 'cream', 'tastes', 'bad', 'usual', 'used', 'better', 'sauce', 'cream']",-1
+595,"['garlic', 'edamame', 'sooo', 'good']",1
+596,"['guy', 'made', 'starbucks', 'get', 'raise', 'lad', 'really']",1
+597,"['ice', 'cresm', 'melted']",-1
+598,"['item', 'recived', 'wrong']",-1
+599,"['item', 'closed', 'well', 'fell', 'bad', 'inside']",-1
+600,"['items', 'prices', 'higher', 'talabat', 'real', 'menu']",-1
+601,"['keto', 'carrot', 'cake', 'disappointment', 'much', 'fondant', 'icing', 'small', 'portion', 'tasted', 'artificial']",-1
+602,"['koushari', 'best']",1
+603,"['kunafa', 'cold', 'oily', 'syrup', 'little', 'waffles', 'rubbery', 'bad']",-1
+604,"['kunafa', 'hot', 'good', 'tasty', 'waffle', 'also', 'delicious', 'full', 'nuttela', 'fruits']",1
+605,"['meal', 'toasted', 'enough', 'mentioned', 'order']",-1
+606,"['meat', 'good', 'full', 'fat', 'couldnt', 'eat']",-1
+607,"['order', 'came', 'different', 'usual', 'salad', 'less', 'disapointing']",-1
+608,"['order', 'didnt', 'arrive', 'nobody', 'confirmed', 'anything']",-1
+611,"['package', 'open', 'without', 'seal']",-1
+612,"['packaging', 'good', 'dolma', 'toooo', 'salty', 'samosa', 'overpriced']",-1
+614,"['pizza', 'properly', 'cooked']",-1
+615,"['portion', 'price', 'shockingky', 'small']",-1
+616,"['portion', 'worth', 'value']",-1
+617,"['rating', 'restaurant', 'talabat', 'inaccurate', 'misleading', 'food', 'extreemly', 'poor', 'cold', 'poorly', 'cooled']",-1
+618,"['rice', 'cooked']",-1
+619,"['rider', 'clearly', 'follow', 'told', 'bad', 'experience']",-1
+620,"['rider', 'didnt', 'give', 'right', 'amount', 'change', 'back', 'gave', 'half']",-1
+621,"['rider', 'perfect']",1
+622,"['rider', 'literally', 'texted', 'hurry', 'need', 'go', 'another', 'order', 'pick', 'asked', 'wait', 'seconds']",-1
+623,"['rider', 'quick', 'polite', 'thank']",1
+624,"['saffron', 'cake', 'dry', 'milk', 'san', 'sebastian', 'soggy']",-1
+625,"['salad', 'bad', 'spicy']",-1
+626,"['salted', 'lassi', 'drink', 'tasted', 'smelled', 'bad', 'extreamly', 'un', 'bearable', 'taste', 'like', 'rotten', 'please', 'check', 'salted', 'lassi', 'could', 'expired']",-1
+627,"['seafood', 'cooked', 'prawns', 'lobster']",-1
+628,"['server', 'called', 'clarify', 'order', 'thrilled']",-1
+629,"['shawarma', 'smells', 'really', 'bad']",-1
+630,"['shawarma', 'good', 'also', 'falafel', 'good', 'thanks']",1
+631,"['singaporean', 'fried', 'rice', 'oily']",-1
+632,"['slice', 'heaven', 'soooo', 'good']",1
+633,"['souce', 'missing', 'meal', 'also', 'frid', 'rice', 'supose', 'coke', 'vegetable', 'vegetable', 'quantity', 'less', 'expect', 'comparing', 'price']",-1
+634,"['special', 'requests', 'followed', 'skinned', 'milk', 'cutlery', 'even', 'mentioning']",-1
+635,"['taste', 'weird', 'vines', 'leaves', 'thought', 'would', 'better', 'need', 'improvement']",-1
+636,"['taste', 'cheese', 'bad']",-1
+637,"['taste', 'kunafa', 'good', 'usual', 'doesnt', 'taste', 'fresh']",-1
+638,"['ultimate', 'fries', 'came', 'without', 'beef']",-1
+639,"['worst', 'chopsuey', 'ive', 'far', 'tastes', 'like', 'plastic']",-1
+640,"['wrong', 'item', 'given', 'paied', 'extra', 'fries', 'one', 'fries']",-1
+641,"['wrong', 'order', 'delivered']",-1
+642,"['spoon', 'order']",-1
+643,"['stapler', 'wire', 'food']",-1
+644,"['delivey', 'option', 'remove', 'feedback', 'pleasr']",-1
+645,"['way', 'paid', 'much', 'half', 'sandwish']",-1
+646,"['added', 'mayo', 'sandwich', 'without', 'request']",-1
+647,"['added', 'mayo', 'sandwich', 'without', 'request']",-1
+648,"['always', 'ignore', 'special', 'tequest', 'garlic', 'souce']",-1
+649,"['come', 'time']",1
+650,"['completely', 'ignored', 'special', 'request', 'regards', 'seasoning', 'croque', 'madame']",-1
+651,"['completely', 'ignored', 'special', 'request', 'regards', 'seasoning', 'croque', 'madame']",-1
+652,"['put', 'tissue', 'fork', 'order']",-1
+654,"['didnt', 'even', 'put', 'oven', 'cold', 'like', 'ice']",-1
+655,"['didnt', 'pay', 'attention', 'message', 'even', 'small', 'request']",-1
+656,"['dliver', 'wrong', 'item']",-1
+657,"['followed', 'instruction', 'order', 'corectly']",1
+658,"['forget', 'send', 'shawarma', 'sauce', 'tarator']",-1
+659,"['forgot', 'drink']",-1
+660,"['gave', 'wrong', 'chips', 'ordered', 'tomato', 'chips', 'got', 'lemon', 'chili', 'one', 'dont', 'like']",-1
+661,"['ignored', 'note', 'acceptable']",-1
+662,"['improve', 'quality', 'looked', 'good', 'rd', 'streetif', 'improve', 'bit', 'would', 'good']",-1
+663,"['keep', 'forgtting', 'put', 'differnt', 'names', 'meals', 'paper', 'always', 'end', 'eating', 'meal']",-1
+664,"['keep', 'forgtting', 'put', 'differnt', 'names', 'meals', 'paper', 'always', 'end', 'eating', 'meal']",-1
+665,"['miss', 'special', 'request']",-1
+666,"['said', 'minit', 'take', 'hour', 'show', 'delverat', 'one', 'hour', 'poor', 'service']",-1
+667,"['took', 'money', 'didnt', 'add', 'frinch', 'fries', 'order', 'want', 'money', 'frinch', 'fries', 'back', 'today']",-1
+668,"['petite', 'four', 'food', 'quality', 'definitely', 'improved', 'wasnt', 'great', 'value', 'money']",-1
+669,"['second', 'time', 'missing', 'item', 'last', 'pizza', 'cold']",-1
+670,"['bad', 'asked', 'two', 'nutella', 'two', 'pistachio', 'cookies', 'abd', 'go', 'pistachio', 'lava', 'cake', 'joke', 'jt', 'looks', 'nothing', 'lkke', 'picture', 'cold']",-1
+671,"['restaurant', 'bad', 'food', 'chicken', 'fresh', 'amp', 'old', 'chicken']",-1
+672,"['bad', 'restorant']",-1
+673,"['till', 'best', 'mexican', 'food', 'keep']",1
+674,"['tiny', 'portions']",-1
+675,"['tiny', 'tastless', 'chicken', 'burger', 'dont', 'recommend']",-1
+677,"['tom', 'yum', 'good', 'usual']",-1
+678,"['expensive', 'food']",-1
+679,"['much', 'bread', 'enough', 'filling', 'half', 'shawarma', 'fries']",-1
+680,"['much', 'sugar']",-1
+681,['salty'],-1
+682,"['top', 'resturant']",1
+683,"['try', 'nice']",-1
+684,"['two', 'simple', 'requests', 'ignored', 'cafe', 'bateel']",-1
+686,"['u', 'forgotten', 'pizza', 'didnt', 'take', 'order', 'please', 'send', 'wont', 'order']",-1
+687,"['unexpected', 'food', 'quality', 'daal', 'watery', 'lentil', 'seen', 'requested', 'spicy', 'food', 'spicy', 'kids', 'couldnt', 'eat']",-1
+688,"['ushk', 'cake', 'delicious', 'priced']",-1
+690,"['v', 'hood']",1
+692,"['ver', 'bad']",-1
+693,"['ver', 'bad']",-1
+694,"['verey', 'good']",1
+695,"['vert', 'nice', 'taste', 'perfect']",1
+696,"['bad', 'food', 'money', 'waste', 'fresh', 'chicken', 'taste']",-1
+697,"['bad', 'tast', 'wasnt', 'well', 'done', 'fries', 'cold', 'hot', 'sticky', 'like', 'yesterdays', 'menu']",-1
+698,['baddddd'],-1
+699,"['cold', 'take', 'mote', 'one', 'hour', 'deliver']",-1
+700,['delicious'],1
+701,"['disappointed', 'donuts']",-1
+702,['fast'],1
+703,"['fast', 'friendly', 'guy']",1
+704,['fast'],1
+705,"['fast', 'love']",1
+706,['good'],1
+707,"['good', 'chicken', 'shawarmas']",1
+708,"['good', 'food']",1
+709,"['good', 'food', 'quality']",1
+710,"['good', 'food']",1
+711,"['good', 'order']",1
+712,"['good', 'recommend', 'ordering', 'popcorn']",1
+713,"['good', 'service', 'bread', 'le', 'petit', 'paris', 'amazing']",1
+714,['good'],1
+715,"['humble', 'guy', 'hardworking', 'found', 'house', 'phone', 'switched', 'mashaallaah', 'humble', 'guy', 'big']",1
+716,['nice'],1
+717,['nice'],1
+718,"['nice', 'coffee', 'one', 'best', 'cappacinoe', 'ever', 'tried']",1
+719,"['nice', 'food']",1
+720,"['nice', 'food']",1
+721,"['nice', 'food', 'thank', 'u']",1
+722,['nice'],1
+723,['pad'],-1
+724,['sour'],-1
+725,['spicy'],-1
+726,['tasty'],1
+727,"['waited', 'two', 'hours', 'restaurant', 'decided', 'cancel', 'order']",-1
+728,"['cery', 'bad', 'improve', 'please']",-1
+729,"['fast', 'thanks']",1
+730,"['waste', 'money']",-1
+731,['waw'],1
+732,"['didnt', 'get', 'food']",-1
+733,"['ordered', 'mini', 'campeche', 'quesadillas', 'always', 'could', 'eat', 'time', 'bbq', 'sauce', 'top', 'never', 'put', 'top', 'tasted', 'awful']",-1
+734,"['thought', 'order', 'come', 'pocket', 'tin', 'came', 'bag']",-1
+735,"['welldone', 'improved', 'ways']",1
+736,['order'],-1
+738,"['never', 'order', 'restaurant']",-1
+739,"['without', 'tomato']",-1
+740,"['worst', 'food', 'ive', 'life', 'worst', 'juice', 'ever', 'dont', 'know', 'ate']",-1
+741,"['worst', 'keto', 'bun', 'ever', 'seen', 'dont', 'order']",-1
+742,['wow'],1
+743,"['wrong', 'change']",-1
+744,"['wrong', 'coffe']",-1
+745,"['wrong', 'item', 'please', 'send', 'new']",-1
+746,"['wrong', 'order']",-1
+747,"['wrong', 'order', 'received']",-1
+748,"['wrong', 'order']",-1
+749,"['wrong', 'omlette', 'moy', 'crepe']",-1
+750,"['wrong', 'omlette', 'moy', 'crepe']",-1
+751,['yahooooo'],1
+752,['yammi'],1
+753,"['yellow', 'cap', 'super', 'pizza']",1
+755,['amazing'],1
+756,['best'],1
+757,['better'],-1
+758,"['forgot', 'tissue', 'spoon']",-1
+759,"['gave', 'wrong', 'pizza']",-1
+760,['yum'],1
+761,"['yum', 'foodi']",1
+762,"['yummiest', 'croissants', 'san', 'sebastian', 'cheesecake']",1
+763,['yummm'],1
+764,"['yummy', 'saucy']",1
+765,"['yummy', 'food']",1
+766,"['yummy', 'food', 'thanks']",1
+767,"['yumy', 'yumy']",1
+768,['yumyyyyy'],1
